@@ -1,0 +1,29 @@
+{
+    "name": "revb",
+    "version": "0.1",
+    "description": "Command line file inverter",
+    "author": "Rurigk <rurigk@gmail.com>",
+    "contributors": [{
+        "name": "Rurigk",
+        "email": "rurigk@gmail.com"
+    }],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/rurigk/revb"
+    },
+    "bugs": {
+        "url": "https://github.com/rurigk/revb/issues"
+    },
+    "keywords": [
+        "binary",
+        "buffer",
+        "tac",
+        "rev",
+        "binary rev",
+        "binary cat"
+    ],
+    "dependencies": {
+        "buffertools": "*",
+    },
+    "license": "MIT"
+}
